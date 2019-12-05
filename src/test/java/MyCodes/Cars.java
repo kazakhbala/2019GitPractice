@@ -1,4 +1,4 @@
-package java_code;
+package MyCodes;
 
 public class Cars {
     private String name;
