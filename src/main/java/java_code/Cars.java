@@ -9,6 +9,7 @@ public class Cars {
     public static void main(String[] args) {
         System.out.println("I love Java");
         System.out.println("I love Java an d Selenium");
+        System.out.println("Lexus570");
 
     }
 }
