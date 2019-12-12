@@ -8,4 +8,7 @@ Alabama
 Virginia
 New Jersey
 New York
+Washington DC
+Kansas
+
 
