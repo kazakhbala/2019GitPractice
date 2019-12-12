@@ -1,1 +1,11 @@
-I love white and green cars
+Gray
+Red
+Blue
+Green
+Brown
+Purple
+Tan
+Pink
+Yellow
+Black
+White
