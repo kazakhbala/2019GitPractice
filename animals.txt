@@ -1,0 +1,8 @@
+cat
+dog
+wolf
+bear
+tiger
+lion
+rabbit
+
