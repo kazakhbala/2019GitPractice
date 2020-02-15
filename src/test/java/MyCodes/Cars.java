@@ -14,6 +14,7 @@ public class Cars {
         System.out.println("Tesla");
         System.out.println("Honda");
         System.out.println("Lada");
+        System.out.println("Suburu");
 
     }
 }
