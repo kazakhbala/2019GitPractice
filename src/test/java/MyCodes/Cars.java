@@ -8,6 +8,7 @@ public class Cars {
     
     public static void main(String[] args) {
         System.out.println("I love Java");
+
         System.out.println("I love Java an d Selenium");
         System.out.println("Lexus570");
         
@@ -19,6 +20,8 @@ public class Cars {
         System.out.println("Ram");
         System.out.println("BMW");
         System.out.println("Turkmenistan");
+
+
 
     }
 }
